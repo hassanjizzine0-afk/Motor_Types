@@ -71,6 +71,13 @@ A4988                   42 Carrier Board               NEMA 17
                         12V Power Supply
 ```
 
+![image_alt](https://github.com/hassanjizzine0-afk/Motor_Types/blob/main/stepper_motor/examples/ex%201/A4988%20(2).jpg.jpeg.jpeg?raw=true)
+
+
+
+
+
+
 ### Critical Notes
 
 - **Never disconnect motor while powered** — destroys driver
