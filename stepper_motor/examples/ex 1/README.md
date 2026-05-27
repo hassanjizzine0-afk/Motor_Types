@@ -83,7 +83,7 @@ A4988                   42 Carrier Board               NEMA 17
 
 
 
-### Critical Notes
+ ## Critical Notes
 
 - **Never disconnect motor while powered** — destroys driver
 - **Heatsink required** on A4988 above ~1A
