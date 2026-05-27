@@ -75,6 +75,7 @@ A4988                   42 Carrier Board               NEMA 17
 
 
 
+###wires motor
 | Coil | Wire 1 | Wire 2 |
 |------|--------|--------|
 | Coil A | Red (A+) | Green (A-) |
