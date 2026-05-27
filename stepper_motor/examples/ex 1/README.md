@@ -75,6 +75,10 @@ A4988                   42 Carrier Board               NEMA 17
 
 
 
+| Coil | Wire 1 | Wire 2 |
+|------|--------|--------|
+| Coil A | Red (A+) | Green (A-) |
+| Coil B | Blue (B+) | Yellow (B-) |
 
 
 
