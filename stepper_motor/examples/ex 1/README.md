@@ -10,6 +10,9 @@
 
 ### Driver: A4988
 ![image_alt](https://github.com/hassanjizzine0-afk/Motor_Types/blob/main/stepper_motor/examples/ex%201/A4988%20(1).jpg.jpeg?raw=true)
+
+
+
 The A4988 is a **microstepping driver** with internal chopper circuit. It converts STEP/DIR logic signals into the correct phase sequence for a 2-phase bipolar motor.
 
 | Function | Pin | Connection |
