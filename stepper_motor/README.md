@@ -1,4 +1,4 @@
-Understood. Here is a concise, no-Arduino, technical README focused solely on the stepper motor itself.
+
 
 ---
 
