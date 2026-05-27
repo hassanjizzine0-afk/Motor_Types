@@ -79,7 +79,3 @@ Stator teeth are offset between phases to create the stepping sequence without r
 - Consumes current even when stationary (holding torque)
 - Requires driver with current limiting (coils cannot connect directly to supply)
 ```
-
----
-
-This covers the motor theory, types, and construction without microcontroller references.
