@@ -49,6 +49,12 @@ Vref = 1.7 × 8 × 0.1 = 1.36V
 
 ### Wiring Diagram
 
+![image_alt](https://github.com/hassanjizzine0-afk/Motor_Types/blob/main/stepper_motor/examples/ex%201/A4988.jpg?raw=true)
+
+
+
+
+
 ```
 A4988                   42 Carrier Board               NEMA 17
 ┌─────────┐             ┌──────────────┐              ┌─────────┐
